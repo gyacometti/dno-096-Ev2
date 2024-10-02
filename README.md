@@ -1,6 +1,5 @@
 # dno-096-Ev2
-<img width="528" alt="Captura de pantalla 2024-10-02 a la(s) 12 55 35" src="https://github.com/user-attachments/assets/dfbc8530-538c-45e6-8d10-5dae1de8335e">
-
+![yo1](https://github.com/user-attachments/assets/847855bd-2954-44c3-86d3-e6266fd4d1a4)
 
 ![10](https://github.com/user-attachments/assets/58f5eb5e-3ac7-4fd0-8f4c-82a545fc040c)
 ![9](https://github.com/user-attachments/assets/4e2fc58e-02ec-4ef5-a47e-c4acfb226138)
